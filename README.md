@@ -50,6 +50,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seowonn&show_icons=true&locale=en&layout=compact" alt="seowonn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seowonn&show_icons=true&&theme=merko&locale=en&layout=compact" alt="seowonn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seowonn&show_icons=true&locale=en" alt="seowonn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seowonn&show_icons=true&&theme=merko&locale=en" alt="seowonn" /></p>
