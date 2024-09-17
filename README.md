@@ -34,7 +34,9 @@
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 </div>
 <br>
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seowonn&show_icons=true&&theme=merko&locale=en&layout=compact" alt="seowonn" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seowonn&show_icons=true&&theme=merko&locale=en" alt="seowonn" /></p>
+</div>
