@@ -1,4 +1,7 @@
 <h1 align="left">Hi 👋, I'm Seowon Son</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f0fff0&height=200&section=header&text=Seowon's%20Github&fontSize=50&textY=30" />
+
 <h3 align="left">A passionate backend developer from Korea</h3>
 
 - 🌱 I’m currently learning **Java, Spring, Mysql**
