@@ -23,58 +23,58 @@
 <br>
 
 ## 🏢 Careers
-✒️ 포스코DX 청년IT 전문가 아카데미 9기 (2024.11 ~ 2025.05)  
-✒️ KB IT's Your Life 5기 (2024.05 ~ 2024.10)  
-✒️ 제로베이스 백엔드 스쿨 19기 (2023.11 ~ 2024.04)  
-✒️ TJlabs 개발팀 (2023.03 ~ 2023.09)  
-✒️ KIST 센서시스템 학생연구원 (2022.09 ~ 2023.02)  
-✒️ SMNL 스마트 미디어 네트워크 연구실 (2022.03 ~ 2022.08)
+
+### 💻 IT Training Programs
+- **POSCO DX 청년IT 전문가 아카데미 9기**  
+  *(2024.11 ~ 2025.05)*  
+- **KB IT's Your Life 5기**  
+  *(2024.05 ~ 2024.10)*  
+- **제로베이스 백엔드 스쿨 19기**  
+  *(2023.11 ~ 2024.04)*  
+
+### 🛠 Work Experience
+- **TJlabs 개발팀**  
+  *(2023.03 ~ 2023.09)*  
+- **KIST 센서시스템 학생연구원**  
+  *(2022.09 ~ 2023.02)*  
+
+### 🧪 Research Experience
+- **SMNL 스마트 미디어 네트워크 연구실**  
+  *(2022.03 ~ 2022.08)*  
 
 <br>
 
-## 📍Projects  
+## 🖥️ Projects  
 
 | PERIOD          | TITLE                                                                                                                  |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **2024.10** | **암표방지를 위한 전자지갑 티켓팅 서비스** (https://github.com/KBfinance-team-MetalWallet) |
-| **2024.05** | **이웃에서 찾는 중고거래 서비스** (https://github.com/2024TeamUnity/Goods_BE)               |
-| **2024.04** | **지역별 방문일지 기록 ** (https://github.com/seowonn/my-map)               |
+| **2024.10** | **암표방지를 위한 전자지갑 티켓팅 서비스** (https://github.com/KBfinance-team-MetalWallet/metal-wallet-backend) |
+| **2024.05** | **이웃에서 찾는 중고거래 서비스** (https://github.com/seowonn/Goods_BE)               |
+| **2024.04** | **지역별 방문일지 기록** (https://github.com/seowonn/my-map)               |
 
 <br>
 
 ## 📜 Certifications
 
 - 정보처리기사 (2024.04) -  한국산업인력공단
-- Opic AL (2022.05) - ACTFL
+- Opic AL (2024.03) - ACTFL
 - SQLD (2023.12) - 한국데이터산업진흥원  
 
 <br>
 
-## 📄 Publications
+## 📄 Publications & 🏆 Awards
 
-- *MobileNet을 이용한 한국어 입모양 인식 시스템* (2022.11)
-- *Human SLAM에서 다중 360 Image 추출 방법* (2022.06) 
-
-<br>
-
-## 🏆 Awards
-- 2022 동계 한국방송미디어공학회 대학생 논문/캡스톤디자인 경진대회 장려상 (2022.11)
-
-<br>
-
-## 🧑‍💻 Contact me
-
-<div align="center">
-  <a href="mailto:sonseowon5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:sonseowon5@gmail.com">
-  </a>
-</div>
+📄 *MobileNet을 이용한 한국어 입모양 인식 시스템* (2022.11)  
+📄 *Human SLAM에서 다중 360 Image 추출 방법* (2022.06)  
+🏆 2022 동계 한국방송미디어공학회 대학생 논문/캡스톤디자인 경진대회 장려상 (2022.11) 
 
 <br>
 
 ## 🏅 Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seowonn&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seowonn&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=seowonn&show_icons=true&theme=merko" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jenlvee" alt="Solved.ac jenlvee" />
 </div>
+
+
