@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=adff2f&height=180&text=Seowon's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=90ee90&height=180&text=Seowon's%20Github&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
 <div align="center">
